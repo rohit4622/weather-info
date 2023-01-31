@@ -3,7 +3,7 @@ In this project We can easily find the wether information like Temperature , Hum
 sunrises time etc of just enter the city name .
 
 ## Technology Used
- -Python
+ Python
 - Tkinter
 - API
 - Json file
